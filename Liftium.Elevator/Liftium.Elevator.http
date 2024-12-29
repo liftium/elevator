@@ -1,0 +1,6 @@
+@Liftium.Elevator_HostAddress = http://localhost:5189
+
+GET {{Liftium.Elevator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
